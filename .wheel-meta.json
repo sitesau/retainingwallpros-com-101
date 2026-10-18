@@ -1,0 +1,22 @@
+{
+  "wheel_id": 427,
+  "structure": "umbrella",
+  "slug": "retainingwallpros-com-101",
+  "project": "retaining-wall-quotes-brisbane-timeline-721bf4157072e535a3e2ade",
+  "parent_t1_ref": "retainingwallpros-com-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallpros.com.au",
+  "primary_kw": "retaining wall quotes brisbane timeline",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-quotes-brisbane-timeline-721bf4157072e535a3e2ade/",
+  "tier": "T2",
+  "writeback_nonce": "a639f10c8e9913ef",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-quotes-brisbane-c09084d5d3e0543420ba7ad590322451/",
+      "anchor": "retaining wall quotes brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
